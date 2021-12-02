@@ -1,2 +1,1 @@
-# JavaScript-Quiz
- 
+I created a JavaScript timed quiz, testing mine and others knowledge on JavaScript. With this quiz, with every question answered wrong you will lose time. High scores are recorded in local storage. 
